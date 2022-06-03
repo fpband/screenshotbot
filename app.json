@@ -29,11 +29,11 @@
     },
     "LOG_CHANNEL": {
       "description": "Log channel's id.",
-      "value": "-1001756415227"
+      "value": ""
     },
     "DATABASE_URL": {
       "description": "Mongodb database URI from https://cloud.mongodb.com/",
-      "value": "mongodb+srv://abirhasan2005:abirhasan@cluster0.lb2tp.mongodb.net/cluster0?retryWrites=true&w=majority"
+      "value": "mongodb+srv://abirhasan2005:abirhasan@cluster0.i6qzp.mongodb.net/cluster0?retryWrites=true&w=majority"
     },
     "AUTH_USERS": {
       "description": "Authorised user(s) id separated by space.",
@@ -46,7 +46,7 @@
     },
     "MAX_TRIM_DURATION": {
       "description": "Maximum allowed seconds for trimming. Defaults to 600.",
-      "value": "2500",
+      "value": "10000",
       "required": false
     },
     "TRACK_CHANNEL": {
