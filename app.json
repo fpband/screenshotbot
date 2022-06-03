@@ -29,7 +29,7 @@
     },
     "LOG_CHANNEL": {
       "description": "Log channel's id.",
-      "value": ""
+      "value": "-1001708811948"
     },
     "DATABASE_URL": {
       "description": "Mongodb database URI from https://cloud.mongodb.com/",
