@@ -21,7 +21,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your Bot token, as a string.",
-      "value": ""
+      "value": "1988193725:AAHYPBT3lyRS3HsFv9GZoYntl8_sLOjjBic"
     },
     "SESSION_NAME": {
       "description": "Name you want to call your bot's session, Eg: bot username.",
